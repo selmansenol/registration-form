@@ -2,7 +2,7 @@
 <hr>
 <h2>Registration Form</h2>
 
-<img src="images/registration-form.png">
+<img src="images/registrationForm.png">
 <hr>
 <h4>Step 1</h4>
 Welcome to the Registration Form project! Start by adding the !DOCTYPE html declaration at the top of the document so the browser knows what type of document it's reading.
