@@ -1,5 +1,3 @@
-# registration-form
-<hr>
 <h2>Registration Form</h2>
 
 <img src="images/registrationForm.png">
